@@ -13,7 +13,7 @@
 
 ### Or take the easy route use the Easy Button
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/esparkman/gridsome-starter-netlify-netlifycms-tailwindcss)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/guifelix/gridsome-starter-netlify-netlifycms-tailwindcss)
 
 ### 3. Setting up Github Authentication for NetlifyCMS
 
