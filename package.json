@@ -1,0 +1,29 @@
+{
+  "name": "gridsome-starter-netlify-netlifycms-tailwindcss",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore",
+    "lint": "eslint -c .eslintrc.js src/**/*.vue"
+  },
+  "dependencies": {
+    "@gridsome/remark-prismjs": "0.0.5",
+    "@gridsome/source-filesystem": "^0.3.0",
+    "gridsome": "^0.5.6",
+    "gridsome-plugin-netlify-cms": "^1.0.6",
+    "gridsome-plugin-remark-shiki": "^0.3.0",
+    "netlify-cms": "^2.8.0",
+    "node-sass": "^4.11.0",
+    "sass-loader": "^7.1.0"
+  },
+  "devDependencies": {
+    "@gridsome/transformer-remark": "^0.2.1",
+    "eslint": "^5.15.3",
+    "eslint-plugin-gridsome": "^1.1.1",
+    "gridsome-plugin-tailwind": "^0.0.2",
+    "postcss-nesting": "^7.0.0",
+    "tailwindcss": "^1.0.0-beta.4",
+    "vue-eslint-parser": "^6.0.3"
+  }
+}
